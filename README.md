@@ -80,4 +80,4 @@ car-loan-calculator/
 
 ## Author
 
-Built by [202antt](https://github.com/202antt)
+Built by [Anthony Williams Jr.](https://github.com/202antt)
