@@ -54,8 +54,7 @@ car-loan-calculator/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── README.txt
+└── README.md
 ```
 
 ## What I Practiced
